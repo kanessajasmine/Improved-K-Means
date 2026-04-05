@@ -1,3 +1,6 @@
+import numpy as np
+from sklearn.metrics import pairwise_distances
+
 def improved_kmeans(X, n_clusters, max_iter=100, tol=1e-4, verbose=False):
     """
     Improved K-Means clustering with weighted initialization.
