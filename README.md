@@ -10,7 +10,7 @@ Improved K-Means is a modified clustering algorithm that enhances centroid initi
 ## 📦 Installation
 ### From GitHub
 ```bash
-pip install git+https://github.com/kanessajasmine/improved-kmeans.git
+pip install git+https://github.com/kanessajasmine/Improved-K-Means.git
 ```
 
 ### Local Installation
